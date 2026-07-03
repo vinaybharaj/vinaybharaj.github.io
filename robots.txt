@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vinaybharaj.github.io/sitemap.xml
